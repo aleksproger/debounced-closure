@@ -62,6 +62,10 @@ ExampleViewThree()
 
 ```
 
+#### Illustration of examples from Sources/Examples
+
+https://github.com/aleksproger/debounced-closure/assets/45671572/d7404e0a-9b35-40af-ac6b-7f534bf885f6
+
 #### Different function signatures
 
 - Using interval as `TimeInterval`
