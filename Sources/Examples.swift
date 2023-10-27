@@ -63,7 +63,7 @@ struct DebounceExamples: PreviewProvider {
                 ExampleViewOne(log: debounced(Logger.log, 1))
             }
                     
-            if #available(macOS 13.0, *) {
+            if #available(macOS 13.0, iOS 16.0, watchOS 9.0, tvOS 16.0, *) {
                 ExampleField(isCorrect: true, name: "ExampleViewOne(log: debounced(Logger.log, .seconds(1)))") {
                     ExampleViewOne(log: debounced(Logger.log, .seconds(1)))
                 }

@@ -1,4 +1,7 @@
 # DebouncedClosure
+
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Faleksproger%2Fdebounced-closure%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/aleksproger/debounced-closure)
+
 ## Simple and flexible way to debounce closure calls
 
 DebouncedClosure is small and flexible implementation of debounce in modern Swift. 
